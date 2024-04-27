@@ -3,3 +3,5 @@ This is file A
 This is a change to a file
 
 making another changes
+
+One more changes for merge.
